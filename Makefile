@@ -1,7 +1,3 @@
-# Makefile for WSL C test project (generic: all .c in src, -I include)
-# Build from WSL: make
-# Clean: make clean
-
 INCDIR   = include
 SRCDIR   = src
 BUILDDIR = build
