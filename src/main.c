@@ -4,6 +4,6 @@
 int main(void)
 {
     printf("Hello from %s\n", "src/main.c");
-    print_greeting();
+    greeting_print_hello();
     return 0;
 }

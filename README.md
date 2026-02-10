@@ -4,3 +4,8 @@ To build:
 ```
 make -j
 ```
+
+To run:
+```
+./build/app
+```
